@@ -18,6 +18,8 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 📁 File **Aplikasi Utama** portable untuk membuka aplikasi.
 
 ---
+- [⬇️ Download MainApp.exe](https://github.com/zenzalepik/rilis_ep/raw/main/npm.zip)
+📁 File **npm.zip** untuk npm install bersama node.exe.
 
 
 
