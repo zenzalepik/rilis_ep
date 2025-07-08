@@ -14,7 +14,7 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 📁 File **Node.js** portable dengan versi yang sesuai untuk kebutuhan aplikasi.
 
 ---
-- [⬇️ Download MainApp.exe]()
+- [⬇️ Download MainApp.exe](https://github.com/zenzalepik/rilis_ep/raw/main/Evosist_Parking_Desktop_-win-unpacked.exe)
 📁 File **Aplikasi Utama** portable untuk membuka aplikasi.
 
 ---
