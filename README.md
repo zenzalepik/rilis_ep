@@ -6,9 +6,26 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 
 ## 📦 Unduhan
 
-- [⬇️ Download project.zip](https://github.com/zenzalepik/rilis_ep/raw/main/project.zip)
-
+- [⬇️ Download 1 project.zip](https://github.com/zenzalepik/rilis_ep/raw/main/project.zip)
 📁 File ini berisi raw projext dari aplikasi **Electron** dan **Next.js**.
+
+---
+- [⬇️ Download node.exe](https://github.com/zenzalepik/rilis_ep/raw/main/node.exe)
+📁 File **Node.js** portable dengan versi yang sesuai untuk kebutuhan aplikasi.
+
+---
+- [⬇️ Download MainApp.exe]()
+📁 File **Aplikasi Utama** portable untuk membuka aplikasi.
+
+---
+
+
+
+---
+---
+---
+- [⬇️ Download VersiSlowInstallElectronNSIS_Berhasil.zip](https://github.com/zenzalepik/rilis_ep/raw/main/VersiSlowInstallElectronNSIS_Berhasil.zip)
+📁 **Versi Slow Install Electron NSIS** Berhasil.
 
 ---
 
