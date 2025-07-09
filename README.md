@@ -51,6 +51,14 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 ---
 ---
 ---
+# Installer Utama
+- [⬇️ Download setup.bat](https://github.com/zenzalepik/rilis_ep/raw/main/EvoParkInstaller.exe)
+📁 **EvoParkInstaller.exe** file installer utama. Cukup install ini, FrontEnd Desktop siap digunakan untuk end user.
+
+
+---
+---
+---
 
 ---
 
