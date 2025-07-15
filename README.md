@@ -30,7 +30,7 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 📁 File **version.json** untuk catatan dan patokan cek rilis aplikasi terbaru.
 
 ---
-- [⬇️ Download .next](https://github.com/zenzalepik/rilis_ep/raw/main/.next)
+- [⬇️ Download .next.zip](https://github.com/zenzalepik/rilis_ep/raw/main/.next.zip)
 📁 File **.next** rilis build next js terbaru.
 
 
