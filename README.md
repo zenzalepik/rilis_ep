@@ -29,6 +29,10 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 - [⬇️ Download version.json](https://github.com/zenzalepik/rilis_ep/raw/main/version.json)
 📁 File **version.json** untuk catatan dan patokan cek rilis aplikasi terbaru.
 
+---
+- [⬇️ Download .next](https://github.com/zenzalepik/rilis_ep/raw/main/.next)
+📁 File **.next** rilis build next js terbaru.
+
 
 
 ---
