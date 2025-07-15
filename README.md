@@ -25,6 +25,10 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 - [⬇️ Download electron.zip](https://github.com/zenzalepik/rilis_ep/raw/main/electron.zip)
 📁 File **electron.zip** untuk toolkit menjalankan aplikasi utama.
 
+---
+- [⬇️ Download version.json](https://github.com/zenzalepik/rilis_ep/raw/main/version.json)
+📁 File **version.json** untuk catatan dan patokan cek rilis aplikasi terbaru.
+
 
 
 ---
