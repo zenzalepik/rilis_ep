@@ -46,6 +46,11 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 
 ---
 
+- [⬇️ Download main.js](https://github.com/zenzalepik/rilis_ep/raw/main/main.js)
+  📁 File **main.js** core logic aplikasi electron.
+
+---
+
 ---
 
 ---
