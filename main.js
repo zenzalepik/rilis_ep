@@ -121,7 +121,7 @@ app.whenReady().then(() => {
 
     loadingWindow?.webContents.send(
       'loading-status',
-      '🟢 Menyalankan server...'
+      '🟢 Menjalankan server...'
     );
 
     serverProcess.stdout.on('data', (data) => {
