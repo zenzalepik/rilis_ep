@@ -51,6 +51,11 @@ Selamat datang di halaman rilis aplikasi. Berikut adalah file yang dapat Anda un
 
 ---
 
+- [⬇️ Download postgresql-17.5-3-windows-x64-binaries.zip](https://github.com/zenzalepik/rilis_ep/raw/main/postgresql-17.5-3-windows-x64-binaries.zip)
+  📁 File **postgres portable** database runtime portable untuk OS Windows.
+
+---
+
 ---
 
 ---
